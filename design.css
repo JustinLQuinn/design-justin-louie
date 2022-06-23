@@ -1,0 +1,47 @@
+.d-inline {
+
+}
+body {
+    background: #e6e6e6!important;
+}
+.mg-start {
+    margin-left: 20px;
+}
+.mobile-text {
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+}
+.anton {
+    font-family: 'Anton', sans-serif;
+}
+.design {
+    display: flex;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    font-family: "Anton", sans-serif;
+    border: 7px solid #fff;
+    background-color: #e6563b;
+}
+.develop {
+    display: flex;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background-color: #eb9d3a;
+}
+.support {
+    display: flex;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background-color: #7cb06c;
+}
+.host {
+    display: flex;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background-color: #00aba9;
+}
