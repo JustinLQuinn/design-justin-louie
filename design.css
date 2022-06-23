@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .d-inline {
 
 }
@@ -45,3 +46,10 @@ body {
     text-align: center;
     background-color: #00aba9;
 }
+=======
+@media screen and (min-width:200px) and (max-width:767px) {
+    #company {
+        display: none;
+    }
+}
+>>>>>>> de7baac5f62e48f3e1f06079b34d814fc9e49584
