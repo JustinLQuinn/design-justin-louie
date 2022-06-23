@@ -20,36 +20,45 @@ body {
     display: flex;
     height: 100px;
     width: 100px;
-    text-align: center;
+    align-items: center;
     font-family: "Anton", sans-serif;
     border: 7px solid #fff;
     background-color: #e6563b;
+    justify-content: center;
 }
 .develop {
     display: flex;
     height: 100px;
     width: 100px;
-    text-align: center;
+    align-items: center;
+    font-family: "Anton", sans-serif;
+    border: 7px solid #fff;
     background-color: #eb9d3a;
+    justify-content: center;
 }
 .support {
     display: flex;
     height: 100px;
     width: 100px;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: "Anton", sans-serif;
+    border: 7px solid #fff;
     background-color: #7cb06c;
 }
 .host {
     display: flex;
     height: 100px;
     width: 100px;
-    text-align: center;
+    align-items: center;
+    font-family: "Anton", sans-serif;
+    border: 7px solid #fff;
     background-color: #00aba9;
+    justify-content: center;
 }
 =======
-@media screen and (min-width:200px) and (max-width:767px) {
-    #company {
-        display: none;
-    }
-}
+/*@media screen and (min-width:200px) and (max-width:576px) {*/
+/*    */
+/*}*/
+
 >>>>>>> de7baac5f62e48f3e1f06079b34d814fc9e49584
