@@ -83,6 +83,10 @@ text{
         display: none;
     }
 }
+@include media-breakpoint-down(md) {
+    div.row.justify-content-center {
+        display: block;
+    }
 =======
 /*@media screen and (min-width:200px) and (max-width:576px) {*/
 /*    */
