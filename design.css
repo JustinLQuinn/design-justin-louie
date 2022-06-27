@@ -56,6 +56,21 @@ body {
     background-color: #00aba9;
     justify-content: center;
 }
+.col1{
+    width: 70%;
+}
+.col2{
+    width: 30%;
+
+}
+div.row{
+    width: 100%;
+    text-align: center;
+
+}
+text{
+    text-align: left;
+}
 =======
 /*@media screen and (min-width:200px) and (max-width:576px) {*/
 /*    */
