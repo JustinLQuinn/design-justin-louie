@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .d-inline {
 
 }
@@ -25,6 +25,7 @@ body {
     border: 7px solid #fff;
     background-color: #e6563b;
     justify-content: center;
+
 }
 .develop {
     display: flex;
@@ -35,6 +36,8 @@ body {
     border: 7px solid #fff;
     background-color: #eb9d3a;
     justify-content: center;
+
+
 }
 .support {
     display: flex;
@@ -56,40 +59,27 @@ body {
     background-color: #00aba9;
     justify-content: center;
 }
-.col1{
-    width: 70%;
-}
-.col2{
-    width: 30%;
+/*.col1{*/
+/*    width: 70%;*/
+/*}*/
+/*.col2{*/
+/*    width: 30%;*/
 
-}
-div.row{
-    width: 100%;
-    text-align: center;
+/*}*/
+/*text{*/
+/*    text-align: left;*/
+/*}*/
+/*@media screen and (min-width:150px) and (max-width:576px) {*/
+/*    div.row.row-cols\(2\) {*/
+/*        display: flex;*/
+/*        flex-direction: row;*/
+/*        justify-content: center;*/
+/*        padding: 3em;*/
+/*    }*/
 
-}
-text{
-    text-align: left;
-}
-@media screen and (min-width:150px) and (max-width:576px) {
-    div.row.row-cols\(2\) {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        padding: 3em;
-    }
-
-    .col2 {
-        display: none;
-    }
-}
-@include media-breakpoint-down(md) {
-    div.row.justify-content-center {
-        display: block;
-    }
-=======
-/*@media screen and (min-width:200px) and (max-width:576px) {*/
-/*    */
+    /*.col2 {*/
+    /*    display: none;*/
+    /*}*/
 /*}*/
 
->>>>>>> de7baac5f62e48f3e1f06079b34d814fc9e49584
+
