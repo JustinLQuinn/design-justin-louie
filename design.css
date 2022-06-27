@@ -66,24 +66,34 @@ body {
 .img-sm {
 
 }
-.circles-D{
+.project-info {
     display: flex;
-    height: 18px;
-    width: 18px;
-    border: none;
-    align-items: center;
-    font-family: "Anton", sans-serif;
-    justify-content: center;
 }
-.circles-C{
+.project-circles {
     display: flex;
-    height: 18px;
-    width: 18px;
-    border: none;
+}
+
+.circle {
+    display: flex;
+    height: 20px;
+    width: 20px;
     align-items: center;
-    background-color: #7cb06c;
     font-family: "Anton", sans-serif;
     justify-content: center;
+
+
+}
+.a {
+    background-color: #e6563b;
+}
+.b {
+    background-color: #eb9d3a;
+}
+.c {
+    background-color: #7cb06c;
+}
+.d {
+    background-color: #00aba9;
 }
 /*.col1{*/
 /*    width: 70%;*/
