@@ -59,6 +59,13 @@ body {
     background-color: #00aba9;
     justify-content: center;
 }
+.img-lrg {
+    border: 4px lightgrey;
+    font-family: "Anton", sans-serif;
+}
+.img-sm {
+
+}
 /*.col1{*/
 /*    width: 70%;*/
 /*}*/
