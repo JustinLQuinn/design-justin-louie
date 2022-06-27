@@ -66,6 +66,25 @@ body {
 .img-sm {
 
 }
+.circles-D{
+    display: flex;
+    height: 18px;
+    width: 18px;
+    border: none;
+    align-items: center;
+    font-family: "Anton", sans-serif;
+    justify-content: center;
+}
+.circles-C{
+    display: flex;
+    height: 18px;
+    width: 18px;
+    border: none;
+    align-items: center;
+    background-color: #7cb06c;
+    font-family: "Anton", sans-serif;
+    justify-content: center;
+}
 /*.col1{*/
 /*    width: 70%;*/
 /*}*/
