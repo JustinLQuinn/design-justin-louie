@@ -60,15 +60,24 @@ body {
     justify-content: center;
 }
 .img-lrg {
-    border: 4px lightgrey;
-    font-family: "Anton", sans-serif;
+    border: 4px black;
+
 }
 .img-sm {
 
 }
+.project {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
 .project-info {
     display: flex;
 
+}
+p {
+    text-align: center;
+    font-family: "Anton", sans-serif;
 }
 .project-circles {
     display: flex;
