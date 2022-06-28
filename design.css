@@ -4,7 +4,8 @@
 
 hr {
     width: 85%;
-    margin: 20px 80px;
+    margin-right: auto;
+    margin-left: auto;
 }
 body {
     background: #e6e6e6!important;
