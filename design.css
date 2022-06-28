@@ -65,11 +65,11 @@ body {
     justify-content: center;
 }
 .img-lrg {
-    /*border: 4px black;*/
 
 }
 .img-sm {
-
+    height: 90px;
+    width: 90px;
 }
 .project {
     display: flex;
