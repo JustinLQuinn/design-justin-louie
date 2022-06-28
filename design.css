@@ -1,6 +1,10 @@
+.h1 {
+    margin-bottom: 75px;
+}
 
-.d-inline {
-
+hr {
+    width: 85%;
+    margin: 20px 80px;
 }
 body {
     background: #e6e6e6!important;
