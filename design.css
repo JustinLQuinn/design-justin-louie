@@ -107,27 +107,8 @@ p {
 .d {
     background-color: #00aba9;
 }
-/*.col1{*/
-/*    width: 70%;*/
-/*}*/
-/*.col2{*/
-/*    width: 30%;*/
-
-/*}*/
-/*text{*/
-/*    text-align: left;*/
-/*}*/
-/*@media screen and (min-width:150px) and (max-width:576px) {*/
-/*    div.row.row-cols\(2\) {*/
-/*        display: flex;*/
-/*        flex-direction: row;*/
-/*        justify-content: center;*/
-/*        padding: 3em;*/
-/*    }*/
-
-    /*.col2 {*/
-    /*    display: none;*/
-    /*}*/
-/*}*/
+.p {
+   margin-left: 250px;
+}
 
 
